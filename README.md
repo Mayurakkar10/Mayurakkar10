@@ -22,7 +22,10 @@ I'm a passionate **Full Stack Web Developer** who loves crafting clean, scalable
 **Backend:**
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=fff)
+![Spring JDBC](https://img.shields.io/badge/-Spring%20JDBC-6DB33F?logo=spring&logoColor=fff)
+![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-6DB33F?logo=spring&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 **Tools & Others:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
