@@ -31,8 +31,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting clean, scalable
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 
 ## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurakkar10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurakkar10&layout=compact&theme=tokyonight)
 
 ## 📬 Let's Connect
