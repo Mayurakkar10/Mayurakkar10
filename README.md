@@ -30,7 +30,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting clean, scalable
 **Tools & Others:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 
 ## 📈 GitHub Stats
