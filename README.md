@@ -4,11 +4,11 @@ I'm a passionate **Full Stack Web Developer** who loves crafting clean, scalable
 
 ## 🚀 About Me
 
-- 💻 I specialize in building full-stack web applications using **React**, **Java Spring Boot**, and **PHP**
+- 💻 I specialize in building full-stack web applications using **React**, **Java Spring Boot**
 - 🎯 My goal is to deliver seamless user experiences and robust backend solutions
 - 🌱 Currently exploring advanced backend architectures and modern frontend frameworks
 - 🛠️ Always excited to collaborate on open-source or real-world projects
-- 📫 How to reach me: [youremail@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [mayurakkar10@gmail.com] | [LinkedIn](https://linkedin.com/in/mayurakkar10)
 
 ## 🧰 Tech Stack
 
